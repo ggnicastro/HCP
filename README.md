@@ -16,7 +16,9 @@ HCP project
 STM14_0324, STM14_0327, STM14_3785, STM14_5414, SG1043, SG1029, SG3025, SG4339, SBG_1240, SBG_3120, SBG_3143, SBG_0599, SBG_3925.  
 ```
 
-|    Seed    | Start | End | Max  Max iteration | Sequences | proteins |
+### Jackhmmer result summary: 
+
+|    Seed    | Start | End | Max  Max iteration | Sequences | Proteins |
 |:----------:|:-----:|:---:|:------------------:|:---------:|:--------:|
 | STM14_0324 |       |     |         15         |   39502   |  39365   |
 | STM14_0327 |       |     |         11         |   39492   |  39347   |

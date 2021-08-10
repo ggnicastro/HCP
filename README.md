@@ -34,4 +34,6 @@ STM14_0324, STM14_0327, STM14_3785, STM14_5414, SG1043, SG1029, SG3025, SG4339, 
 |  SBG_0599  |       |     |         15         |   41167   |  41047   |
 |  SBG_3925  |       |     |         16         |   39344   |  39223   |
 
+![Upset jackhmmer grupos maior 25](./data/Figures/up_set_jackhmmer/upset_higher_25.png)
+
 

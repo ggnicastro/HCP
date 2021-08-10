@@ -11,7 +11,9 @@ HCP project
 
 ##  Collect homologues of HCPs proteins.
 20 iteration of  Jackhmmer searchs were performed against the NCBI nr database  with the follows seeds:  
+````Bash
 STM14_0324, STM14_0327, STM14_3785, STM14_5414, SG1043, SG1029, SG3025, SG4339, SBG_1240, SBG_3120, SBG_3143, SBG_0599, SBG_3925.  
+```
 
 |    Seed    | Start | End | Max  Max iteration | Sequences | proteins |
 |:----------:|:-----:|:---:|:------------------:|:---------:|:--------:|

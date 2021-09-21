@@ -7,7 +7,8 @@ HCP project
 - [ ] Build the MSA and the phylogenetic tree.  
 - [ ] Collect the neighboors.  
 - [ ] Classify the neighbrhoods.  
-
+- [ ] Checar os PID WP_000338754.1 e WP_000907671.1 pq não estão no dado!!!
+- [ ] 
 
 ##  Collection of HCPs homologues .
 20 iteration of  Jackhmmer searchs were performed against the NCBI nr database  with the follow seeds:  

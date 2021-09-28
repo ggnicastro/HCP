@@ -8,6 +8,10 @@ HCP project
 - [ ] Collect the neighboors.  
 - [ ] Classify the neighbrhoods.  
 - [ ] Checar os PID WP_000338754.1 e WP_000907671.1 pq não estão no dado!!!
+
+
+- [ ] Analysis of Evolved HCP shows that the cluster EFB4083106.1 is present at the neighborhood of toxins, jackhmmer shows it is present in many toxin proteins.  
+- [ ] CLuster EEQ5355862.1 the same behaivour that the last one.  
 - [ ] 
 
 ##  Collection of HCPs homologues .
